@@ -1,0 +1,14 @@
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/bin/Debug/net8.0/SzerzetesekÉsKannibálok
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/bin/Debug/net8.0/SzerzetesekÉsKannibálok.deps.json
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/bin/Debug/net8.0/SzerzetesekÉsKannibálok.runtimeconfig.json
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/bin/Debug/net8.0/SzerzetesekÉsKannibálok.dll
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/bin/Debug/net8.0/SzerzetesekÉsKannibálok.pdb
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/obj/Debug/net8.0/SzerzetesekÉsKannibálok.GeneratedMSBuildEditorConfig.editorconfig
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/obj/Debug/net8.0/SzerzetesekÉsKannibálok.AssemblyInfoInputs.cache
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/obj/Debug/net8.0/SzerzetesekÉsKannibálok.AssemblyInfo.cs
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/obj/Debug/net8.0/SzerzetesekÉsKannibálok.csproj.CoreCompileInputs.cache
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/obj/Debug/net8.0/SzerzetesekÉsKannibálok.dll
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/obj/Debug/net8.0/refint/SzerzetesekÉsKannibálok.dll
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/obj/Debug/net8.0/SzerzetesekÉsKannibálok.pdb
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/obj/Debug/net8.0/SzerzetesekÉsKannibálok.genruntimeconfig.cache
+/home/barnapet/git-repos/SzerzetesekÉsKannibálok/obj/Debug/net8.0/ref/SzerzetesekÉsKannibálok.dll
